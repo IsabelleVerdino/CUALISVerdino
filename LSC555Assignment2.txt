@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Assignment Two: System Analysis and Usability Test</title>
+
+<meta name="viewport" content="wilih=device-width, initial-scale=1.0">
+
+<style type = "text/css">
+
+		body {background-color: #FFFEFA; font-family: Times New Roman; 
+		border-color: black; padding: 10px; margin:50px; max-wilih: 950px; }
+
+		h1 {color: #0540F2;} 		
+	
+		h2, h3 {color:#3D79F2;}
+
+		ul {background-color: #FFF6D2; width: fit; padding: 20px; margin: 15px; }
+
+		table, th, td {border: 1px solid black; border-collapse: collapse; padding: 15px;}
+
+		table {background-color: #FFF6D2; width: 75%;}
+
+		img {object-fit: cover; width: 100%;}
+		
+</style>
+</head> 
+
+<body> 
+
+<h1> Assignment Two: System Analysis and Usability Test </h1>  
+
+<img src="https://cuislandora.wrlc.org/sites/cuislandora.wrlc.org/files/cua-logo-2017.jpg" alt="Catholic University Library Logo">
+
+<a href= "https://cuislandora.wrlc.org/islandora/object/cuislandora%3A67501"> The Tower Archives: 1922-2018</a>
+
+	<h2> PART ONE </h2> 
+
+		<h3> Inputs and Outputs</h3>
+<p> Catholic University of America stores editions of <i>The Tower</i> in a digital archive. Here is a table featuring four inputs and the subsequent outputs. </p>
+
+<table>
+  <tr> <b>
+    <th>Input</th>
+    <th>Output</th>
+  </b> </tr>
+  
+  <tr>
+<td>Drop down menu</td>
+    <td>Select a collection</td>
+  </tr>
+
+  <tr>
+<td>“Sort by” </td>
+    <td>Orders all search results by a selected category </td>
+  </tr>
+
+  <tr>
+<td>Text field: search inside</td>
+    <td>Finds terms in a specific volume and highlights them. </td>
+  </tr>
+
+ <tr>
+<td>Clickable icon: magnifying glass</td>
+    <td>Zooms in or out on page viewer </td>
+  </tr>
+
+<tr>
+<td>Range Slider</td>
+    <td>After searching the collection for a term, you can narrow the search by sliding a range of dates</td>
+  </tr>
+
+</table>
+
+		<h3> Critique</h3>
+<p> I am conducting this critique as an Undergraduate Teacher who is looking for original source material on this online archive. </p> 
+
+<p> <u> TASK ONE:</u> Find specific material relevant to a topic (e.g., changing attitudes toward gender, race, politics, etc.) to incorporate into a lesson.</p> 
+
+<p>I chose to search for the topic “gender”. I was hoping to find issues of The Tower from its early publication years and maybe see when women were able to start attending Catholic and the school’s response to that. It was not easy. </p> 
+
+<p>One of the biggest problems with these search results is that although the search function does find uses of the word, it does not show you what those uses are on the initial search screen. You see the volume number the word was found in, but that only provides you the context of the year it was written. It does not include the name of the article, no previews of quotes that use the search term, and no result that tells you the number of times the search term was used. So you have to go through each volume to get the chance to find something relevant.</p>
+
+<p> I clicked on <b>The Tower, Vol 2, Issue 16, (February 12, 1924) Pages 1-4.</b> In it, there is no use of the word “gender.” Instead, it matched to one use of the word “engender” which is not what I was looking for. </p>
+
+<p> <u> TASK TWO:</u> Pick a topic (some ideas are tobacco use, armed conflict, or changing attitudes toward gender and race) and look for material that illustrates aspects of the topic.</p> 
+
+<p>These topics are already too specific for <i>The Tower’s</i> search functionality. I chose to look for “tobacco use.” It would be hard to find a single article covering a change in tobacco use over time without knowing the specific volume it was written.  </p> 
+
+<p>There are a lot more uses of the word “tobacco” in volumes of <i>The Tower </i> than “gender.” 385 results primarily in the 1920s and 1930s. I assume this is because tobacco was extremely popular then. Again, there is no way to see the nature of the word use unless you open an entire volume and then navigate to the uses of the word “tobacco.” They make shortcuts so you can jump to the use of the word, which is nice.  </p>
+
+<p>I clicked on <b>The Tower, Vol 14, Issue 2, (October 18, 1934) Pages 1-4.</b> There are no articles on tobacco in this volume. Instead, there is a tobacco advertisement. The Tower Archive is an inefficient way to look for specific information unless you already know where to look. If I were a professor, I would not use this resource for class. </p>
+
+<p>Based on Nielsen’s Ten Principles of Heuristic Design, The Tower’s archive is not successful. While there are some good features, the user interface design is flawed and not intuitive for a user unfamiliar with the archive.</p>
+
+		<ul>
+<li>Visibility of system status</li>
+			<ul>
+        				<li> <i>The Tower</i> does not show a loading screen or any other evidence of system status. For example, when using the zoom function on a volume, the screen will go entirely blank for a while. When it loads in it is zoomed. But with no progress update, a user might think there’s an error or they’ve made a mistake and exit the page.  </li> </ul>
+  			<li>Match between system and real world</li>
+			<ul>
+        				<li> The word use is acceptable. There is no jargon or anything super technical. However, the navigation and search functions are not intuitive. It does not match typical thinking patterns. </li></ul>
+
+<li>User control and freedom</li>
+			<ul>
+				<li> The degree of user control and freedom depends on the user’s familiarity with the system. Again, it is not intuitive. Both the browse and search functions only work easily if you know exactly what volume of <i>The Tower</i> you want to explore. </li> </ul>
+
+<li>Consistency and standards</li>
+			<ul>
+				<li><i>The Tower</i> is consistent across its volumes. The functions coded into the system are not easily usable. Does not rely on conventions of other websites’ search functions or content filtering. Has different filters than other digital archives uploaded to this website. Data from the volumes has not been inputted correctly or at all, so the search functions are not entirely useful or accurate. </li></ul>
+
+
+<li>Error prevention</li> 
+			<ul>
+				<li>No welcome page, instructions, or introduction to the archive. Users are expected to experiment and learn through trial and error. </li></ul>
+
+<li>Recognition rather than recall</li>
+			<ul>
+				<li> The larger CUA digital archives display breadcrumbs as you navigate through their collections. The Tower does not include its own. When you filter volumes through their criteria, your search terms and filters appear clearly at the top of the page. So you can see what you have filtered and get rid of some if necessary. </li></ul>
+
+<li>Flexibility and Efficiency of use</li>
+			<ul>
+				<li>Not very flexible or efficient. The search tool is, as mentioned, very difficult to use. The webpage is slow. </li></ul>
+
+<li>Aesthetic and minimalist design</li>
+			<ul>
+				<li>The design is minimal and decently aesthetic. Red, white, and blue are the only color choices. The text is all black or gray. They rely mostly on the volumes of The Tower, which are all designed before publication. </li></ul>
+  				
+<li>Help users recover, diagnose, and recover from errors</li>
+			<ul>
+				<li>This error message popped up multiple times while I was trying to navigate The Tower Archives. It displays the problem but does not translate it or suggest a solution. There is a reload button, but it does not work. </li>
+
+<img src="https://cdn.cronitor.io/static/img/blog/fix-dns-probe-error/chrome-dns-error.png" alt="Error message"></ul>
+
+<li>Help and documentation</li>
+			<ul>
+				<li>As noted above, I had error messages a few times when looking at early volumes. There was no explanation included with the message. The Tower has no user support in terms of an FAQ page, a help page, or a way to contact someone at The Tower for help. </li></ul>
+</ul>
+
+	<h3> Summarize </h3>
+
+	<p> The top two strengths of <i>The Tower</i> Archives are in the digitization of this amount of content. They have made all volumes of <i>The Tower</i> from 1922-2018 available and accessible to more people online. Every page of these papers is scanned and uploaded to a high enough quality to read the issue. Strengths: accessibility of content and high-quality scans of volumes. </p>
+
+<p>On the other hand, its weaknesses have to do with website navigation and ease of use. While their inputs are a basic start at engaging users and helping them find what they need, content filtering is not on par with similar websites. Users cannot easily find what they are looking for. In addition, the website moves very slowly. Weaknesses: content filtering is difficult, and the website is slow to load. </p> 
+
+
+	<h2> PART TWO </h2> 
+
+		<h3> Usability Test</h3>
+			
+			<p> Lisa Santa-Coloma was willing to spend 20 minutes exploring The Tower Archive for a mini-usability test. These are the two tasks asked of her: </p> 
+
+			<p><u>TASK ONE:</u> Use the site to explore how the Catholic University of America student newspaper has changed over the years. </p> 
+
+	<p><u>TASK TWO:</u> Imagine that you are a teacher looking for material about campus perspectives on World War II and the Vietnam War. Find two articles on each conflict that also have to do with campus attitudes and activities. </p> 
+
+	<p>Observations from this test and Lisa’s opinion on the usability of the system are included as separate documents. </p> 
+
+		<h3> Compare and Contrast </h3> 
+			<p>Now, let’s talk about the similarities and differences between the Heuristic Analysis I conducted and Lisa’s view of the system after her mini-usability test:  </p>
+
+			<p><u>SIMILARITIES:</u>  There were quite a few similarities between the two exercises. My heuristics analysis revealed that there are a lot of ways the website should be updated to reflect digital standards and increase usability. Lisa’s usability test suggested much of the same. Lisa noted on her Questionnare that some of the issues she selected didn’t load, and that some of it was not immediately intuitive. This aligns with my analysis overall.</p> 
+
+			<p>Both exercises agree that the strengths of <i>The Tower</i> are in its content and the foundation it has laid for searching and navigating the volumes. It is usable, but it’s not the best it could be.  </p> 
+
+			<p><u>DIFFERENCES:</u> Lisa seemed pleasantly surprised the whole time she interacted with the archives. I did not give her my opinion or suggest anything before she started the test, but she entered it with low expectations anyway. I don’t know if this expectation came from the fact that The Tower is a university website, that the usability test was being conducted because there are problems, or something else.  </p> 
+
+		<p>In addition, Lisa was able to find the content she needed for the tasks she was assigned. The searches I conducted followed a similar search process, but I was not able to find materials that would be helpful for what I was assigned.  </p> 
+
+		<h3> Suggestions for Improvement </h3> 
+			<p>If I were to suggest changes to The Tower digital archives, it does need a bit of an update. Primarily, I think that applying continuity across Catholic’s digital archives would be the most impactful to user experience. While The Tower is just one special collection, it should have the same features and resources available as the other special collections on the same website. It does not make sense that some articles in this database would be searchable by year, when others cannot be. </p> 
+
+			<p>In addition, I think whatever server is hosting the archives needs to be upgraded. The response time to interact with materials is significantly slower than comparative web pages. It makes the usability difficult. </p> 
+
+			<p>Lastly, I believe that someone should come in and update their keyword search system to match the level of quality that other search engines and library resources have. CUA has an excellent library website with numerous advanced search options. It makes finding what you’re looking for a lot easier. <i>The Tower</i> should implement some, if not all, of these features so there isn’t a discrepancy between their digital resources.   </p> 
+
+</body> 
+</html>
